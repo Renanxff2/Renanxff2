@@ -17,7 +17,7 @@ Check out some of my work in the [My Portfolio](https://github.com/Renanxff2/Meu
 
 ## Contact
 📧 renanvianabezerra987@gmail.com  
-🌐 [My Linktree](https://linktr.ee/seulink) (add your real link here)
+🌐 [My Linkedin] https://www.linkedin.com/in/renan-viana-832038268/
 
 ---
 
