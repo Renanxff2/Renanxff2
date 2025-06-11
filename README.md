@@ -12,8 +12,8 @@ I am a **Full-Stack Developer in training** passionate about learning and buildi
 ## My Projects
 Check out some of my work in the [My Portfolio](https://github.com/Renanxff2/Meu-portifolio) repository:
 
-- Project 1: My first development project
-- Project 2: Fictional project for layout and design studies
+- Project 1: https://github.com/Renanxff2/APP_ELA.git
+- Project 2: https://github.com/Renanxff2/Meu-portifolio.git
 
 ## Contact
 📧 renanvianabezerra987@gmail.com  
